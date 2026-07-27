@@ -1,4 +1,6 @@
 <div align="center">
+
+![Profile Avatar](https://avatars.githubusercontent.com/u/47431976?s=256&v=4)
   
 ## Artemos
 #### also known as `Urtyom Alyanov`, `urtyom`, `shizo`
