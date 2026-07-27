@@ -35,6 +35,6 @@ I love's low-level and logic programming, but UI i can do too.
 
 **Stats**:
   
-<img src="https://github-stats-extended.vercel.app/api?username=Urtyom-Alyanov&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_authored,prs_commented,prs_reviewed,issues_authored,issues_commented&show_icons=true&theme=catppuccin_mocha" alt="GitHub Stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Urtyom-Alyanov&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=catppuccin_mocha" alt="Top Languages" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Urtyom-Alyanov&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=Urtyom-Alyanov&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Urtyom-Alyanov&langs_count=8&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=Urtyom-Alyanov&langs_count=8&theme=gruvbox)
 </div>
